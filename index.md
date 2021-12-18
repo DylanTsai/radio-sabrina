@@ -1,3 +1,3 @@
 ## Radio Sabrina
 
-<button onclick="var audio = new Audio('https://interactive-examples.mdn.mozilla.net/media/cc0-audio/t-rex-roar.mp3');audio.play();">Play Audio</button>
+<button onclick="var audio = new Audio('https://github.com/DylanTsai/radio-sabrina/tree/gh-pages/songs/A Little Too Much.mp3');audio.play();">Play Audio</button>
