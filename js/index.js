@@ -164,3 +164,10 @@ playNext();
 
 let audio = new Audio("/songs/All I Ask.mp3");
 audio.play();
+
+play() {
+  var audio = new Audio('https://interactive-examples.mdn.mozilla.net/media/cc0-audio/t-rex-roar.mp3');
+  audio.play();
+}
+
+document.getElementById("testAudioElement").play()
