@@ -157,8 +157,10 @@ function playNext() {
   AUDIO_ELEMENTS["primary"]["element"].play();
   return true;
 }
-
+/*
 setup();
 playNext();
+*/
 
-
+let audio = new Audio("/songs/All I Ask.mp3");
+audio.play();
